@@ -1,6 +1,5 @@
 ## musicana azure link here: 
-# https://white-plant-053319010.1.azurestaticapps.net/
-
+# https://lemon-bush-00fb82210.1.azurestaticapps.net/
 This project is based on azure static web app and developed using html, CSS, JavaScript.
 # This is the first page
 here, we have download buttons for play store and app store which glows when we put cursor on it.
